@@ -1,3 +1,17 @@
+/*
+ * 
+ * Cadastrar pessoas: Preencher os arrays com dados do usuário.
+ * 
+ * exibir todas as pessoas: Percorrer os arrays e mostrar todas as informações.
+ * 
+ * Ordenar pessoas por nome ou por valor numerico.
+ * 
+ * aplicar bonus ou acrecimos em valores numericos de algumas pessoas (simulando logica de pagamento ou pontuacao).
+ * 
+ * o uso de loops e condicionais é obrigatório para manipular os arrays e realizar calculos ou buscas
+ * 
+ */
+
 import java.util.Scanner;
 
 public class App {
